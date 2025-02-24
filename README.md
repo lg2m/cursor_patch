@@ -1,13 +1,13 @@
 # Cursor Patch 🛠️
 
-A maintenance script for enhancing Cursor editor on Linux systems. Removes window frame for better Wayland compatibility and provides easy update management.
-
-![Cursor Logo](https://raw.githubusercontent.com/mxsteini/cursor_patch/main/.github/logo.png)
+A maintenance script for enhancing Cursor editor on Debian/Ubuntu. Removes window frame for better compatibility and provides easy update management.
 
 ## Update Cursor:
 
+This script assumes that you have cursor downloaded and have already integrated and ran it once.
+
 ```bash
-$HOME/bin/cursor-update.sh
+./cursor-update.sh
 ```
 
 ## Acknowledgments
